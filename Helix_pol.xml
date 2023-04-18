@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?><Element>
+    <StringTable script="Helix.pyp"/>
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Liczba zwojów</Text>
+    </Item>
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Geometria</Text>
+    </Item>
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Właściwości</Text>
+    </Item>
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Promień krzywizny</Text>
+    </Item>
+    <Item>
+        <TextId>1005</TextId>
+        <Text>Obiekt</Text>
+    </Item>
+    <Item>
+        <TextId>1006</TextId>
+        <Text>Promień okręgu</Text>
+    </Item>
+    <Item>
+        <TextId>1007</TextId>
+        <Text>Promień krzywizny</Text>
+    </Item>
+    <Item>
+        <TextId>1008</TextId>
+        <Text>Promień (domyślny)</Text>
+    </Item>
+    <Item>
+        <TextId>1009</TextId>
+        <Text>Promień </Text>
+    </Item>
+    <Item>
+        <TextId>1010</TextId>
+        <Text>Splajn</Text>
+    </Item>
+</Element>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?><Element>
+    <StringTable script="Helix.pyp"/>
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Número de viradas</Text>
+    </Item>
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Geometria</Text>
+    </Item>
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Propriedades</Text>
+    </Item>
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Circulo de varredura</Text>
+    </Item>
+    <Item>
+        <TextId>1005</TextId>
+        <Text>Objetos de varredura</Text>
+    </Item>
+    <Item>
+        <TextId>1006</TextId>
+        <Text>Raio do círculo</Text>
+    </Item>
+    <Item>
+        <TextId>1007</TextId>
+        <Text>Circulo de varredura</Text>
+    </Item>
+    <Item>
+        <TextId>1008</TextId>
+        <Text>Raio (padrão)</Text>
+    </Item>
+    <Item>
+        <TextId>1009</TextId>
+        <Text>Raio </Text>
+    </Item>
+    <Item>
+        <TextId>1010</TextId>
+        <Text>Splinha</Text>
+    </Item>
+</Element>

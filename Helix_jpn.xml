@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?><Element>
+    <StringTable script="Helix.pyp"/>
+    <Item>
+        <TextId>1001</TextId>
+        <Text>回転数</Text>
+    </Item>
+    <Item>
+        <TextId>1002</TextId>
+        <Text>形状</Text>
+    </Item>
+    <Item>
+        <TextId>1003</TextId>
+        <Text>プロパティ</Text>
+    </Item>
+    <Item>
+        <TextId>1004</TextId>
+        <Text>円を掃引する</Text>
+    </Item>
+    <Item>
+        <TextId>1005</TextId>
+        <Text>物体を掃引する</Text>
+    </Item>
+    <Item>
+        <TextId>1006</TextId>
+        <Text>円の半径</Text>
+    </Item>
+    <Item>
+        <TextId>1007</TextId>
+        <Text>円を掃引する</Text>
+    </Item>
+    <Item>
+        <TextId>1008</TextId>
+        <Text>半径 (デフォルト)</Text>
+    </Item>
+    <Item>
+        <TextId>1009</TextId>
+        <Text>半径 </Text>
+    </Item>
+    <Item>
+        <TextId>1010</TextId>
+        <Text>スプライン</Text>
+    </Item>
+</Element>

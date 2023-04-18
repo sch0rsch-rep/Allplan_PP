@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?><Element>
+    <StringTable script="Helix.pyp"/>
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Broj okreta</Text>
+    </Item>
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Geometrija</Text>
+    </Item>
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Svojstva</Text>
+    </Item>
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Polumjer zakrivljenosti</Text>
+    </Item>
+    <Item>
+        <TextId>1005</TextId>
+        <Text>Objekti</Text>
+    </Item>
+    <Item>
+        <TextId>1006</TextId>
+        <Text>Radijus kruga</Text>
+    </Item>
+    <Item>
+        <TextId>1007</TextId>
+        <Text>Polumjer zakrivljenosti</Text>
+    </Item>
+    <Item>
+        <TextId>1008</TextId>
+        <Text>Radijus (Standard)</Text>
+    </Item>
+    <Item>
+        <TextId>1009</TextId>
+        <Text>Polumjer </Text>
+    </Item>
+    <Item>
+        <TextId>1010</TextId>
+        <Text>Spline linija</Text>
+    </Item>
+</Element>

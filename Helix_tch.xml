@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?><Element>
+    <StringTable script="Helix.pyp"/>
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Počet otáček</Text>
+    </Item>
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Geometrie</Text>
+    </Item>
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Vlastnosti</Text>
+    </Item>
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Poloměr zakřivení</Text>
+    </Item>
+    <Item>
+        <TextId>1005</TextId>
+        <Text>Objekty</Text>
+    </Item>
+    <Item>
+        <TextId>1006</TextId>
+        <Text>Poloměr kružnice</Text>
+    </Item>
+    <Item>
+        <TextId>1007</TextId>
+        <Text>Poloměr zakřivení</Text>
+    </Item>
+    <Item>
+        <TextId>1008</TextId>
+        <Text>Poloměr (Standard)</Text>
+    </Item>
+    <Item>
+        <TextId>1009</TextId>
+        <Text>Poloměr </Text>
+    </Item>
+    <Item>
+        <TextId>1010</TextId>
+        <Text>Spline</Text>
+    </Item>
+</Element>
